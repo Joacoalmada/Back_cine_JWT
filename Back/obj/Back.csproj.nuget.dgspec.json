@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\a\\cine_back\\Back\\Back.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Back.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\a\\cine_back\\Back\\Back.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Back.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\a\\cine_back\\Back\\Back.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Back.csproj",
         "projectName": "Back",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\a\\cine_back\\Back\\Back.csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Back.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\a\\cine_back\\Back\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

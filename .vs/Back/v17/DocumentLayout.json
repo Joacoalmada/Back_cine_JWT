@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Progra-UTN\\Segundo Cuatrimestre\\WebApi\\Back_cine_JWT\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|c:\\users\\usuario\\onedrive\\escritorio\\progra-utn\\segundo cuatrimestre\\webapi\\back_cine_jwt\\back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|solutionrelative:back\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|c:\\users\\usuario\\onedrive\\escritorio\\progra-utn\\segundo cuatrimestre\\webapi\\back_cine_jwt\\back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|solutionrelative:back\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|c:\\users\\usuario\\onedrive\\escritorio\\progra-utn\\segundo cuatrimestre\\webapi\\back_cine_jwt\\back\\data\\customs\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|c:\\users\\usuario\\onedrive\\escritorio\\3\\back_cine_jwt\\back\\data\\customs\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|solutionrelative:back\\data\\customs\\utilidades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|c:\\users\\usuario\\onedrive\\escritorio\\progra-utn\\segundo cuatrimestre\\webapi\\back_cine_jwt\\back\\data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|solutionrelative:back\\data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|c:\\users\\usuario\\onedrive\\escritorio\\3\\back_cine_jwt\\back\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|solutionrelative:back\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|c:\\users\\usuario\\onedrive\\escritorio\\progra-utn\\segundo cuatrimestre\\webapi\\back_cine_jwt\\back\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|solutionrelative:back\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|c:\\users\\usuario\\onedrive\\escritorio\\3\\back_cine_jwt\\back\\controllers\\acessocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|solutionrelative:back\\controllers\\acessocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|c:\\users\\usuario\\onedrive\\escritorio\\3\\back_cine_jwt\\back\\data\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|solutionrelative:back\\data\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|c:\\users\\usuario\\onedrive\\escritorio\\3\\back_cine_jwt\\back\\data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5641D302-DA40-4980-8EC1-597376E119E5}|Back\\Back.csproj|solutionrelative:back\\data\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,67 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuariosController.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Progra-UTN\\Segundo Cuatrimestre\\WebApi\\Back_cine_JWT\\Back\\Controllers\\UsuariosController.cs",
-              "RelativeDocumentMoniker": "Back\\Controllers\\UsuariosController.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Progra-UTN\\Segundo Cuatrimestre\\WebApi\\Back_cine_JWT\\Back\\Controllers\\UsuariosController.cs",
-              "RelativeToolTip": "Back\\Controllers\\UsuariosController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T04:57:43.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Progra-UTN\\Segundo Cuatrimestre\\WebApi\\Back_cine_JWT\\Back\\Data\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Back\\Data\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Progra-UTN\\Segundo Cuatrimestre\\WebApi\\Back_cine_JWT\\Back\\Data\\Models\\Usuario.cs",
-              "RelativeToolTip": "Back\\Data\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T04:37:10.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Utilidades.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Progra-UTN\\Segundo Cuatrimestre\\WebApi\\Back_cine_JWT\\Back\\Data\\Customs\\Utilidades.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Data\\Customs\\Utilidades.cs",
               "RelativeDocumentMoniker": "Back\\Data\\Customs\\Utilidades.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Progra-UTN\\Segundo Cuatrimestre\\WebApi\\Back_cine_JWT\\Back\\Data\\Customs\\Utilidades.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Data\\Customs\\Utilidades.cs",
               "RelativeToolTip": "Back\\Data\\Customs\\Utilidades.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T23:57:22.778Z"
+              "WhenOpened": "2024-11-12T14:41:55.951Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Progra-UTN\\Segundo Cuatrimestre\\WebApi\\Back_cine_JWT\\Back\\appsettings.json",
-              "RelativeDocumentMoniker": "Back\\appsettings.json",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Progra-UTN\\Segundo Cuatrimestre\\WebApi\\Back_cine_JWT\\Back\\appsettings.json",
-              "RelativeToolTip": "Back\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-08T23:49:16.526Z"
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Back\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Back\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowB4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T14:30:21.55Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Progra-UTN\\Segundo Cuatrimestre\\WebApi\\Back_cine_JWT\\Back\\Program.cs",
-              "RelativeDocumentMoniker": "Back\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\Progra-UTN\\Segundo Cuatrimestre\\WebApi\\Back_cine_JWT\\Back\\Program.cs",
-              "RelativeToolTip": "Back\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwE4AAAAYAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AcessoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Controllers\\AcessoController.cs",
+              "RelativeDocumentMoniker": "Back\\Controllers\\AcessoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Controllers\\AcessoController.cs",
+              "RelativeToolTip": "Back\\Controllers\\AcessoController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA5wC0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-08T01:51:53.446Z",
+              "WhenOpened": "2024-11-12T13:50:29.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Data\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Back\\Data\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Data\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Back\\Data\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T13:48:06.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Data\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Back\\Data\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\3\\Back_cine_JWT\\Back\\Data\\Models\\Usuario.cs",
+              "RelativeToolTip": "Back\\Data\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T04:37:10.243Z",
               "EditorCaption": ""
             }
           ]
